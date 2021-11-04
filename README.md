@@ -1,5 +1,6 @@
 # weather-app
-
+# It is live on the --v
+https://weatherisnow.netlify.app/
 ## Project setup
 ```
 npm install
